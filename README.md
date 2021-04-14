@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jcardoz
 - 👀 I’m interested in anything frontend related, running, football, food, reading, coffee, mechanical keyboards
-- 🌱 I’m currently learning react and dev-ops
+- 🌱 I’m currently learning react, dev-ops and containerization
 - 💞️ I’m looking to collaborate on projects that can better the web
 - 📫 How to reach me cardoz.jonathan@gmail.com
 
